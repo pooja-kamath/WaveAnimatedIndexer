@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{CB8EA671-3182-4A51-BD17-180CF11867AD}|Default">
+  <MonoDevelop.Ide.ItemProperties.WaveIndex.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A3A58618-03D0-4F2A-80F6-42F1C0F8D62F">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.WaveIndex.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Resources/layout/Main.axml">
+    <Files>
+      <File FileName="Droid/Resources/layout/Main.axml" Line="31" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WaveIndex" expanded="True">
+            <Node name="WaveIndex" expanded="True" />
+            <Node name="WaveIndex.Droid" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" selected="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="mipmap-hdpi" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WaveIndex.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>
